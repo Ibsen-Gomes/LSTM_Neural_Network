@@ -5,3 +5,5 @@ https://www.deeplearningbook.com.br/arquitetura-de-redes-neurais-long-short-term
 
 https://medium.com/@web2ajax/redes-neurais-recorrentes-lstm-b90b720dc3f6
 
+https://didatica.tech/lstm-long-short-term-memory/
+
