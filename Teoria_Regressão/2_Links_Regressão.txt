@@ -1,6 +1,0 @@
-
-https://medium.com/elinttech/vis%C3%A3o-geral-sobre-a-predi%C3%A7%C3%A3o-de-vendas-e-receitas-no-e-commerce-971c665ca49f
-
-https://medium.com/@patrick_ams/conhecendo-o-sktime-o-sklearn-para-s%C3%A9ries-temporais-8aaa7a8bacc5#:~:text=O%20''sklearn''%20voltado,e%20forecasting%20de%20s%C3%A9ries%20temporais.&text=Sktime%20%C3%A9%20um%20pacote%20que,para%20este%20tipo%20de%20an%C3%A1lise.
-
-https://ilyasbinsalih.medium.com/sktime-the-one-stop-shop-for-time-series-analysis-in-python-183902130039
