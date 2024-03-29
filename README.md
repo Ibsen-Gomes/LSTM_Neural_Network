@@ -1,15 +1,15 @@
 # LSTM
 
 
-![LSTM - célula completa](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/4_lstm_bloco_complexo.png)
+![LSTM - célula completa](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Figuras_teoria/4_lstm_bloco_complexo.png)
 
-![LSTM - variável Ct](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/1_lstm_variavel_ct.png)
+![LSTM - variável Ct](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Figuras_teoria/1_lstm_variavel_ct.png)
 
-![LSTM - cálculo do sigmoide](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/1_lstm_calculos_sigmoide.png)
+![LSTM - cálculo do sigmoide](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Figuras_teoria/1_lstm_calculos_sigmoide.png)
 
-![LSTM - cálculo da variável Ct 2](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/2_lstm_calculos_variavel_ct_2.png)
+![LSTM - cálculo da variável Ct 2](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Figuras_teoria/2_lstm_calculos_variavel_ct_2.png)
 
-![LSTM - cálculo de ht - 1](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/3_lstm_calculos_ht-1.png)
+![LSTM - cálculo de ht - 1](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Figuras_teoria/3_lstm_calculos_ht-1.png)
 
 
 
