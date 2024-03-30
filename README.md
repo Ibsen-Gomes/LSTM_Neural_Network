@@ -1,5 +1,6 @@
 # LSTM
 
+## 1) Teoria:
 
 ![LSTM - célula completa](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Figuras_teoria/4_lstm_bloco_complexo.png)
 
@@ -37,9 +38,13 @@ Vamos considerar que o Ct é uma memória de longo prazo (a soma das memórias a
 O ht nada mais é que a memória de longo prazo atenuada pelo resultado do curto prazo. Essa é a diferença do ht para o Ct: o ht é o Ct passando por uma função de ativação e por um filtro, calibrados a partir da entrada atual e do ht-1.
 
 
+## 2) Banco de dados de séries temporais:
+(Aplicando asos dados de passageiros e bla bla bla... temos o seguinte resultado:)
+
+## 3) Resultado do modelo:
+
 ![Previsão final do LSTM](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/1961_4_months_prevision_passangers.png) 
 
-(Aplicando asos dados de passageiros e bla bla bla... temos o seguinte resultado:)
 Zoom na previsão final:
 ![Zoom da Previsão final do LSTM](https://github.com/Ibsen-Gomes/LSTM_Neural_Network/blob/main/Zoom_1961_4_months_prevision_passangers.png)
 
